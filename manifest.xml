@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin"
-           fetch="http://gitrepo.egf.it"
+           fetch="http://gitrepo.egf.it/egf/"
            revision="master"/>
   <default remote="origin"
            revision="master"
            sync-j="4" />
 
- <project name="egf/meta-egf" path="egf/meta-egf" groups="egf" remote="origin"/>
-  <project name="egf/meta-egf-common" path="egf/meta-egf-common" groups="egf" remote="origin"/>
-  <project name="egf/meta-egf-release" path="egf/meta-egf-release" groups="egf" remote="origin"/>
+ <project name="meta-egf" path="meta-egf" remote="origin"/>
+ <project name="meta-egf-common" path="meta-egf/meta-egf-common" remote="origin"/>
+ <project name="meta-egf-release" path="meta-egf/meta-egf-release" remote="origin"/>
   
  
 </manifest>
