@@ -7,9 +7,9 @@
            revision="master"
            sync-j="4" />
 
- <project name="meta-egf" path="egf/meta-egf" groups="egf" remote="origin"/>
-  <project name="meta-egf-common" path="egf/meta-egf-common" groups="egf" remote="origin"/>
-  <project name="meta-egf-release" path="egf/meta-egf-release" groups="egf" remote="origin"/>
+ <project name="egf/meta-egf" path="egf/meta-egf" groups="egf" remote="origin"/>
+  <project name="egf/meta-egf-common" path="egf/meta-egf-common" groups="egf" remote="origin"/>
+  <project name="egf/meta-egf-release" path="egf/meta-egf-release" groups="egf" remote="origin"/>
   
  
 </manifest>
