@@ -5,7 +5,7 @@
            revision="master"/>
   <default remote="origin"
            revision="master"
-           sync-j="2" />
+           sync-j="4" />
 
  <project name="meta-egf" path="meta-egf" remote="origin"/>
  <project name="meta-egf-common" path="meta-egf/meta-egf-common" remote="origin"/>
