@@ -7,7 +7,7 @@
            revision="master"
            sync-j="4" />
 
- <project name="meta-egf" path="meta-egf" remote="origin" revision="0700_vega_imx8_hardknott" dest-branch="0700_vega_imx8_hardknott"  />
+ <project name="meta-egf" path="meta-egf" remote="origin" revision="0701_evb_imx8_hardknott" dest-branch="0701_evb_imx8_hardknott"  />
  <project name="meta-egf-common" path="meta-egf/meta-egf-common" remote="origin" revision="master" dest-branch="master" />
  <project name="meta-egf-release" path="meta-egf/meta-egf-release" remote="origin" revision="hardknott" dest-branch="hardknott" />
 </manifest>
